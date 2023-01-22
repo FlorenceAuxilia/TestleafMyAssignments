@@ -1,0 +1,24 @@
+//input[@name ='USERNAME']
+//input[@type='password']
+//input[@class='decorativeSubmit']
+//a[contains(text(),'CRM/SFA')]
+//a[text()='Leads']
+//a[text()='Create Lead']
+//input[@id='createLeadForm_companyName']
+//input[@id='createLeadForm_firstName']
+////input[@name='submitButton']
+
+
+
+
+
+
+//first element leads table
+(//div[@class='x-grid3-cell-inner x-grid3-col-partyId']/a)[1]
+
+myntra->men jeans-checkbox flying machine
+//label[text()='Flying Machine']/div
+
+//div[@class='slds-combobox__form-element slds-input-has-icon slds-input-has-icon_right']/input
+
+
